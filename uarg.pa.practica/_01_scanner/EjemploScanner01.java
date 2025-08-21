@@ -18,8 +18,8 @@ public class EjemploScanner_01 {
         System.out.print("¿Estás estudiando Programación Orientada a Objetos? (true/false): ");
         boolean estudiando = scanner.nextBoolean();
 
-        System.out.println("Tu nombre es " + nombre);
-        System.out.println("Tenes " + edad + " años.");
+        System.out.println("Tu nombre ssss " + nombre);
+        System.out.println("Tenes dd" + edad + " años.");
         System.out.println("Altura " + altura + " cm.");
         System.out.println("Estás estudiando: " + estudiando);
 
